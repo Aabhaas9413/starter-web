@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work and contains a normal wev based application that can be used as an example for the later parts of the application.
 
 ## Purpose
 
