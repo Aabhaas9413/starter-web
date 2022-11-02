@@ -5,3 +5,4 @@ This repository is for showing how Git and GitHub work and contains a normal wev
 ## Purpose
 
 Sample website with plenty of files for demos
+let us make some more changes to test the difftool.
