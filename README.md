@@ -6,5 +6,6 @@ This repository is for showing how Git and GitHub work and contains a normal wev
 
 Sample website with plenty of files for demos
 let us make some more changes to test the difftool.
+PLease add this carefully.
 
 COPYRIGHT AM 2021
